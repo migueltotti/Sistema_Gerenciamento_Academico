@@ -117,416 +117,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;btnSalvar.Name" xml:space="preserve">
-    <value>btnSalvar</value>
-  </data>
-  <data name="&gt;&gt;btnSalvar.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;btnSalvar.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;btnSalvar.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnCancelar.Name" xml:space="preserve">
-    <value>btnCancelar</value>
-  </data>
-  <data name="&gt;&gt;btnCancelar.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;btnCancelar.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;btnCancelar.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;tbSenha.Name" xml:space="preserve">
-    <value>tbSenha</value>
-  </data>
-  <data name="&gt;&gt;tbSenha.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbSenha.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbSenha.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;cbUF.Name" xml:space="preserve">
-    <value>cbUF</value>
-  </data>
-  <data name="&gt;&gt;cbUF.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialComboBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;cbUF.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;cbUF.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;tbCidade.Name" xml:space="preserve">
-    <value>tbCidade</value>
-  </data>
-  <data name="&gt;&gt;tbCidade.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbCidade.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbCidade.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;tbBairro.Name" xml:space="preserve">
-    <value>tbBairro</value>
-  </data>
-  <data name="&gt;&gt;tbBairro.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbBairro.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbBairro.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;tbEndereco.Name" xml:space="preserve">
-    <value>tbEndereco</value>
-  </data>
-  <data name="&gt;&gt;tbEndereco.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbEndereco.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbEndereco.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;tbNome.Name" xml:space="preserve">
-    <value>tbNome</value>
-  </data>
-  <data name="&gt;&gt;tbNome.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbNome.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbNome.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;mtbDataNascimento.Name" xml:space="preserve">
-    <value>mtbDataNascimento</value>
-  </data>
-  <data name="&gt;&gt;mtbDataNascimento.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialMaskedTextBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;mtbDataNascimento.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;mtbDataNascimento.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;tbMatricula.Name" xml:space="preserve">
-    <value>tbMatricula</value>
-  </data>
-  <data name="&gt;&gt;tbMatricula.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tbMatricula.Parent" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tbMatricula.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="tabPageCadastro.ImageKey" xml:space="preserve">
-    <value>form.png</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="tabPageCadastro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 31</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tabPageCadastro.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tabPageCadastro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>809, 548</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="tabPageCadastro.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="tabPageCadastro.Text" xml:space="preserve">
-    <value>Cadastro</value>
-  </data>
-  <data name="&gt;&gt;tabPageCadastro.Name" xml:space="preserve">
-    <value>tabPageCadastro</value>
-  </data>
-  <data name="&gt;&gt;tabPageCadastro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPageCadastro.Parent" xml:space="preserve">
-    <value>tabControlCadastro</value>
-  </data>
-  <data name="&gt;&gt;tabPageCadastro.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="materialButton3.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="materialButton3.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
-    <value>GrowAndShrink</value>
-  </data>
-  <data name="materialButton3.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="materialButton3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="materialButton3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>474, 485</value>
-  </data>
-  <data name="materialButton3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 6, 4, 6</value>
-  </data>
-  <data name="materialButton3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 45</value>
-  </data>
-  <data name="materialButton3.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="materialButton3.Text" xml:space="preserve">
-    <value>Novo</value>
-  </data>
-  <data name="&gt;&gt;materialButton3.Name" xml:space="preserve">
-    <value>materialButton3</value>
-  </data>
-  <data name="&gt;&gt;materialButton3.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;materialButton3.Parent" xml:space="preserve">
-    <value>tabPageConsulta</value>
-  </data>
-  <data name="&gt;&gt;materialButton3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="materialButton2.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="materialButton2.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
-    <value>GrowAndShrink</value>
-  </data>
-  <data name="materialButton2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt, style=Bold</value>
-  </data>
-  <data name="materialButton2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="materialButton2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>582, 485</value>
-  </data>
-  <data name="materialButton2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 6, 4, 6</value>
-  </data>
-  <data name="materialButton2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 45</value>
-  </data>
-  <data name="materialButton2.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="materialButton2.Text" xml:space="preserve">
-    <value>Editar</value>
-  </data>
-  <data name="&gt;&gt;materialButton2.Name" xml:space="preserve">
-    <value>materialButton2</value>
-  </data>
-  <data name="&gt;&gt;materialButton2.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;materialButton2.Parent" xml:space="preserve">
-    <value>tabPageConsulta</value>
-  </data>
-  <data name="&gt;&gt;materialButton2.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="materialButton1.AutoSize" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="materialButton1.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
-    <value>GrowAndShrink</value>
-  </data>
-  <data name="materialButton1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Segoe UI, 12pt</value>
-  </data>
-  <data name="materialButton1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>690, 485</value>
-  </data>
-  <data name="materialButton1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 6, 4, 6</value>
-  </data>
-  <data name="materialButton1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 45</value>
-  </data>
-  <data name="materialButton1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="materialButton1.Text" xml:space="preserve">
-    <value>Excluir</value>
-  </data>
-  <data name="&gt;&gt;materialButton1.Name" xml:space="preserve">
-    <value>materialButton1</value>
-  </data>
-  <data name="&gt;&gt;materialButton1.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;materialButton1.Parent" xml:space="preserve">
-    <value>tabPageConsulta</value>
-  </data>
-  <data name="&gt;&gt;materialButton1.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="lvwConsulta.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="lvwConsulta.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 3</value>
-  </data>
-  <data name="lvwConsulta.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>200, 100</value>
-  </data>
-  <data name="lvwConsulta.Size" type="System.Drawing.Size, System.Drawing">
-    <value>803, 460</value>
-  </data>
-  <data name="lvwConsulta.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lvwConsulta.Name" xml:space="preserve">
-    <value>lvwConsulta</value>
-  </data>
-  <data name="&gt;&gt;lvwConsulta.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialListView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;lvwConsulta.Parent" xml:space="preserve">
-    <value>tabPageConsulta</value>
-  </data>
-  <data name="&gt;&gt;lvwConsulta.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="tabPageConsulta.ImageKey" xml:space="preserve">
-    <value>search.png</value>
-  </data>
-  <data name="tabPageConsulta.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 31</value>
-  </data>
-  <data name="tabPageConsulta.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tabPageConsulta.Size" type="System.Drawing.Size, System.Drawing">
-    <value>809, 548</value>
-  </data>
-  <data name="tabPageConsulta.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="tabPageConsulta.Text" xml:space="preserve">
-    <value>Consulta</value>
-  </data>
-  <data name="&gt;&gt;tabPageConsulta.Name" xml:space="preserve">
-    <value>tabPageConsulta</value>
-  </data>
-  <data name="&gt;&gt;tabPageConsulta.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tabPageConsulta.Parent" xml:space="preserve">
-    <value>tabControlCadastro</value>
-  </data>
-  <data name="&gt;&gt;tabPageConsulta.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="tabControlCadastro.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
-  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
-    <value>
-        AAEAAAD/////AQAAAAAAAAAMAgAAAEZTeXN0ZW0uV2luZG93cy5Gb3JtcywgQ3VsdHVyZT1uZXV0cmFs
-        LCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5BQEAAAAmU3lzdGVtLldpbmRvd3MuRm9ybXMu
-        SW1hZ2VMaXN0U3RyZWFtZXIBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAACAkAAAJNU0Z0AUkBTAIBAQIB
-        AAFIAQABSAEAARgBAAEYAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABYAMAARgDAAEBAQABIAYAASQa
-        AANDAXcDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cB
-        uQNPAZkYAAMFAQYDAAH/AwAB/wMAAf8DHAEn/wARAANPAeoDUAGfAx0BKQMdASkDHQEpAx0BKQMdASkD
-        HQEpAx0BKQMdASkDHQEpAx0BKQMdASkDHQEpAx0BKQMdASkDOgFhAwAB/xQAA14B1QMKAf4EAANcAdcD
-        AAH/AxwBJ/8AEAAB/ycAAf8DUwHrAzsBYxAAA1kBwAMdASkQAANVAeQDMgH3CAADXAHXAwAB/wMdASj/
-        AAwAAf8kAANaAeADHAEnA00BkwMAAf8DLwH2CAADVQGvAyQBNBAAAxIBGAMAAf8DXAHWCAADXAHXAwAB
-        /wMcASf/AAgAAf8kAAM0AVMDUQGkAzkBXgMeAfoDQAFxAzIB9wQAA1UBrwMkATQUAAMdASgDAAH/A1wB
-        1ggAA1wB1wMAAf8DHAEn/wAEAAH/KwAB/wMeAfoIAANAAXEDLwH2A1UBrwMkATQYAAMdASgDAAH/A1wB
-        1ggAA1wB1wMAAf8DHQEo/wAB/wcAAf8DAAH/AwAB/wNOAZgDCwEOAz8BbgM/AW4DPwFuBAADSgHuA0oB
-        iQwAA0ABcQMAAf8DJAE0HAADHQEoAwAB/wNcAdYIAANcAdcDAAH/AxwBJ/sAAf8EAAM9AfMEAAMqAUAD
-        UQGhAwwBEANDAXYDQwF2A0MBdggAA0oB7gNKAYkMAANAAXEDLwH2IAADHQEoAwAB/wNcAdcIAANcAdcD
-        AAH/AxwBJwQABAEDPgFqA1UBrQNVAa8DQwF2AwYBB9sAAf8EAAM9AfMEAAMqAUADUQGhAxkBIgNTAaYD
-        UwGmA1MBpgNTAaYDPwFsBAADSgHuA0oBiQwAA0ABcQMvAfYgAAMdASgDAAH/A1wB1wgAA1wB1wMAAf8D
-        KgH4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwoB/gMbASXTAAH/BwAB/wMAAf8DAAH/A0sBjAMCAQMD
-        KQE+AykBPgMpAT4DKQE+AxQBGwgAA0oB7gNKAYkMAANAAXEDLwH2IAADHQEoAwAB/wNcAdYEAAM3AVoD
-        AAH/Ax4B+gMYASEQAAMLAQ4DTwHqAwAB/wNOAZTPAAH/OAADSgHuA0oBiQgABAEDAAH/AzIB9yAAAx0B
-        KAMAAf8DWgHdAwAB/wNTAacgAAM+AWsDAAH/A0QBeMsAAf8EAANEAfEDRAHxA0QB8QM9AWkoAANKAe4D
-        SgGJBAEDAAH/Ax8BLANOAZYDRQF8IAADHQEoAwAB/wNbAc0oAANMAY4DAAH/AwIBA8cAAf8EAAM9AfME
-        AAMqAUADUQGhAykBPgNXAeUDVwHlA1cB5QMEAQUYAANGAe8DAAH/Ax8BLAQAAykBPgNVAawgAANJAYYD
-        AAH/MwAB/wNcAcvHAAH/BAADPQHzBAADKgFAA1EBoQQBAyYBOAMmATgDJgE4AyYBOAMRARYUAANVAa8D
-        FAH8A1UBrAMzAVADAAH/AwsBDiMAAf8DWQHBMAADRAF7AwAB/8cAAf8HAAH/AwAB/wMAAf8DUgGgAxsB
-        JQNVAawDVQGsA1UBrANVAawDQQFyFAADVQGvAyUBNgM9AWkDUgGgAwoBDScAAf8DLgFIMAADBQEGAwAB
-        /8cAAf9AAANVAa8DJQE2MwAB/wMVAR03AAH/xwAB/wQAA0kBhgNJAYYDSQGGAx0BKCwAA1UBrwMlATYz
-        AAH/AykBPjAABAEDAAH/xwAB/wQAAzIB9wM5AV4DSQGGA1EBoQM9AWgDAAH/AwAB/wMAAf8DCQEMDAAD
-        RgGBA1IBowNSAaMDWAHiAyUBNjMAAf8DVAGrMAADOwFlAwAB/8cAAf8EAAM9AfMEAAMqAUADUQGhHwAB
-        /wNFAXwDKgFAA0sBjAMKAf40AANRAaIDAAH/CAADWQHBA1kB4xAAA1ABnQMKAf4IAAMKAf4DVQHkxwAB
-        /wQAAxQB/QNcAdcDXAHhA1EBoQM2AVcDAAH/AwAB/wMAAf8DAAH/A1sB0AMVAR0DWwHQBAADMAFMAwoB
-        /j8AAf8DUgGgBAADFAEbAwAB/wMAAf8DQQHyA1UB5AMAAf8DAAH/AzoBYgQAAzcBWgMAAf8DDAEPxwAB
-        /wQAAwsBDgMLAQ4DCwEOHAADHgEqA1kBuwMwAUwDCgH+QAADPQFpAwAB/wM7AWMIAANCAXQDVwHmA0QB
-        8QNOAZcEAQQAAyMBMgMAAf8DVQGtywAB/ywAAx4BKgNUAecDCgH+SAADTwGbAwAB/wNcAdcEARQAA1YB
-        swMAAf8DWwHNzAADJgE4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8D
-        AAH/AxQB/VAAAyYBOAMAAf8DAAH/AwAB/wNcAeEDWgHdAwAB/wMAAf8DAAH/AzoBYv8AYQADHgEqA1UB
-        rwNEAfEDOQH0A1cBvAMqAUDUAAFCAU0BPgcAAT4DAAEoAwABYAMAARgDAAEBAQABAQUAASABARYAA/8B
-        AAHAAQABPwEHAv8GAAGAAQABHwEjAv8GAAG/AeMBzwExAv8GAAG/AeABzwEYAv8GAAG/AeABTwGMAX8B
-        /wYAAb8B8wEPAcYBPwH/BgABoAETAY8B4wEfAf8GAAGoARkBzwHxAYgBHwYAAagBBAHnAfgBwAEHBgAB
-        oAEGAXMB/AFDAcMGAAG/Af8BMQH+AQ8B8QYAAaEB/wGAAf8BHwH4BgABqAEPAcQB/wE/AfwGAAGoAQcB
-        wAH/AT8B/AYAAaABBwHBAf8BPwH8BgABvwH/Ac8B/wE/Af4GAAGhAf8BzwH/AT8B/AYAAaABDgEPAf8B
-        PwH8BgABqQH8AR8B/wEzAcwGAAGgAQEBPwH/AZABCAYAAaMB+AF/Af8BjAERBgABvwH4Av8BwwHjBgAB
-        gAEBAv8B4AEHBgAE/wH4AR8GAAs=
-</value>
-  </data>
-  <data name="tabControlCadastro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 64</value>
-  </data>
-  <data name="tabControlCadastro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>817, 583</value>
-  </data>
-  <data name="tabControlCadastro.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;tabControlCadastro.Name" xml:space="preserve">
-    <value>tabControlCadastro</value>
-  </data>
-  <data name="&gt;&gt;tabControlCadastro.Type" xml:space="preserve">
-    <value>ReaLTaiizor.Controls.MaterialTabControl, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
-  </data>
-  <data name="&gt;&gt;tabControlCadastro.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;tabControlCadastro.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="btnSalvar.AutoSize" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnSalvar.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
   <data name="btnSalvar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnSalvar.Location" type="System.Drawing.Point, System.Drawing">
     <value>657, 501</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnSalvar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 6, 4, 6</value>
   </data>
@@ -558,7 +164,7 @@
     <value>GrowAndShrink</value>
   </data>
   <data name="btnCancelar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>505, 501</value>
+    <value>526, 501</value>
   </data>
   <data name="btnCancelar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 6, 4, 6</value>
@@ -1004,8 +610,285 @@
   <data name="&gt;&gt;tbMatricula.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
+  <data name="tabPageCadastro.ImageKey" xml:space="preserve">
+    <value>form.png</value>
+  </data>
+  <data name="tabPageCadastro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 31</value>
+  </data>
+  <data name="tabPageCadastro.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageCadastro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>809, 548</value>
+  </data>
+  <data name="tabPageCadastro.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPageCadastro.Text" xml:space="preserve">
+    <value>Cadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Name" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Parent" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnNovo.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnNovo.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnNovo.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="btnNovo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnNovo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>474, 485</value>
+  </data>
+  <data name="btnNovo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnNovo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 36</value>
+  </data>
+  <data name="btnNovo.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btnNovo.Text" xml:space="preserve">
+    <value>Novo</value>
+  </data>
+  <data name="&gt;&gt;btnNovo.Name" xml:space="preserve">
+    <value>btnNovo</value>
+  </data>
+  <data name="&gt;&gt;btnNovo.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnNovo.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;btnNovo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnEditar.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnEditar.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnEditar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="btnEditar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnEditar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>582, 485</value>
+  </data>
+  <data name="btnEditar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnEditar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 36</value>
+  </data>
+  <data name="btnEditar.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnEditar.Text" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="&gt;&gt;btnEditar.Name" xml:space="preserve">
+    <value>btnEditar</value>
+  </data>
+  <data name="&gt;&gt;btnEditar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnEditar.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;btnEditar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnExcluir.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnExcluir.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnExcluir.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="btnExcluir.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 485</value>
+  </data>
+  <data name="btnExcluir.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnExcluir.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 36</value>
+  </data>
+  <data name="btnExcluir.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnExcluir.Text" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="&gt;&gt;btnExcluir.Name" xml:space="preserve">
+    <value>btnExcluir</value>
+  </data>
+  <data name="&gt;&gt;btnExcluir.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnExcluir.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;btnExcluir.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lvwConsulta.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="lvwConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="lvwConsulta.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="lvwConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>803, 460</value>
+  </data>
+  <data name="lvwConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Name" xml:space="preserve">
+    <value>lvwConsulta</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialListView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabPageConsulta.ImageKey" xml:space="preserve">
+    <value>search.png</value>
+  </data>
+  <data name="tabPageConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 31</value>
+  </data>
+  <data name="tabPageConsulta.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>809, 548</value>
+  </data>
+  <data name="tabPageConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabPageConsulta.Text" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Name" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Parent" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabControlCadastro.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEZTeXN0ZW0uV2luZG93cy5Gb3JtcywgQ3VsdHVyZT1uZXV0cmFs
+        LCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5BQEAAAAmU3lzdGVtLldpbmRvd3MuRm9ybXMu
+        SW1hZ2VMaXN0U3RyZWFtZXIBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAACAkAAAJNU0Z0AUkBTAIBAQIB
+        AAGAAQABgAEAARgBAAEYAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABYAMAARgDAAEBAQABIAYAASQa
+        AANDAXcDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cB
+        uQNPAZkYAAMFAQYDAAH/AwAB/wMAAf8DHAEn/wARAANcAeoDUAGfAx0BKQMdASkDHQEpAx0BKQMdASkD
+        HQEpAx0BKQMdASkDHQEpAx0BKQMdASkDHQEpAx0BKQMdASkDOgFhAwAB/xQAA18B1QMRAf4EAANeAdcD
+        AAH/AxwBJ/8AEAAB/ycAAf8DYAHrAzsBYxAAA1kBwAMdASkQAANbAeQDQAH3CAADXgHXAwAB/wMdASj/
+        AAwAAf8kAANgAeADHAEnA00BkwMAAf8DPwH2CAADVQGvAyQBNBAAAxIBGAMAAf8DXAHWCAADXgHXAwAB
+        /wMcASf/AAgAAf8kAAM0AVMDUQGkAzkBXgMlAfoDQAFxA0AB9wQAA1UBrwMkATQUAAMdASgDAAH/A1wB
+        1ggAA14B1wMAAf8DHAEn/wAEAAH/KwAB/wMlAfoIAANAAXEDPwH2A1UBrwMkATQYAAMdASgDAAH/A1wB
+        1ggAA14B1wMAAf8DHQEo/wAB/wcAAf8DAAH/AwAB/wNOAZgDCwEOAz8BbgM/AW4DPwFuBAADWAHuA0oB
+        iQwAA0ABcQMAAf8DJAE0HAADHQEoAwAB/wNcAdYIAANeAdcDAAH/AxwBJ/sAAf8EAANPAfMEAAMqAUAD
+        UQGhAwwBEANDAXYDQwF2A0MBdggAA1gB7gNKAYkMAANAAXEDPwH2IAADHQEoAwAB/wNeAdcIAANeAdcD
+        AAH/AxwBJwQABAEDPgFqA1UBrQNVAa8DQwF2AwYBB9sAAf8EAANPAfMEAAMqAUADUQGhAxkBIgNTAaYD
+        UwGmA1MBpgNTAaYDPwFsBAADWAHuA0oBiQwAA0ABcQM/AfYgAAMdASgDAAH/A14B1wgAA14B1wMAAf8D
+        OwH4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AxEB/gMbASXTAAH/BwAB/wMAAf8DAAH/A0sBjAMCAQMD
+        KQE+AykBPgMpAT4DKQE+AxQBGwgAA1gB7gNKAYkMAANAAXEDPwH2IAADHQEoAwAB/wNcAdYEAAM3AVoD
+        AAH/AyUB+gMYASEQAAMLAQ4DXAHqAwAB/wNOAZTPAAH/OAADWAHuA0oBiQgABAEDAAH/A0AB9yAAAx0B
+        KAMAAf8DXgHdAwAB/wNTAacgAAM+AWsDAAH/A0QBeMsAAf8EAANWAfEDVgHxA1YB8QM9AWkoAANYAe4D
+        SgGJBAEDAAH/Ax8BLANOAZYDRQF8IAADHQEoAwAB/wNbAc0oAANMAY4DAAH/AwIBA8cAAf8EAANPAfME
+        AAMqAUADUQGhAykBPgNfAeUDXwHlA18B5QMEAQUYAANWAe8DAAH/Ax8BLAQAAykBPgNVAawgAANJAYYD
+        AAH/MwAB/wNcAcvHAAH/BAADTwHzBAADKgFAA1EBoQQBAyYBOAMmATgDJgE4AyYBOAMRARYUAANVAa8D
+        IgH8A1UBrAMzAVADAAH/AwsBDiMAAf8DWQHBMAADRAF7AwAB/8cAAf8HAAH/AwAB/wMAAf8DUgGgAxsB
+        JQNVAawDVQGsA1UBrANVAawDQQFyFAADVQGvAyUBNgM9AWkDUgGgAwoBDScAAf8DLgFIMAADBQEGAwAB
+        /8cAAf9AAANVAa8DJQE2MwAB/wMVAR03AAH/xwAB/wQAA0kBhgNJAYYDSQGGAx0BKCwAA1UBrwMlATYz
+        AAH/AykBPjAABAEDAAH/xwAB/wQAA0AB9wM5AV4DSQGGA1EBoQM9AWgDAAH/AwAB/wMAAf8DCQEMDAAD
+        RgGBA1IBowNSAaMDXgHiAyUBNjMAAf8DVAGrMAADOwFlAwAB/8cAAf8EAANPAfMEAAMqAUADUQGhHwAB
+        /wNFAXwDKgFAA0sBjAMRAf40AANRAaIDAAH/CAADWQHBA2AB4xAAA1ABnQMRAf4IAAMRAf4DWwHkxwAB
+        /wQAAyIB/QNeAdcDYgHhA1EBoQM2AVcDAAH/AwAB/wMAAf8DAAH/A1sB0AMVAR0DWwHQBAADMAFMAxEB
+        /j8AAf8DUgGgBAADFAEbAwAB/wMAAf8DUwHyA1sB5AMAAf8DAAH/AzoBYgQAAzcBWgMAAf8DDAEPxwAB
+        /wQAAwsBDgMLAQ4DCwEOHAADHgEqA1kBuwMwAUwDEQH+QAADPQFpAwAB/wM7AWMIAANCAXQDYQHmA1YB
+        8QNOAZcEAQQAAyMBMgMAAf8DVQGtywAB/ywAAx4BKgNcAecDEQH+SAADTwGbAwAB/wNeAdcEARQAA1YB
+        swMAAf8DWwHNzAADJgE4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8D
+        AAH/AyIB/VAAAyYBOAMAAf8DAAH/AwAB/wNiAeEDXgHdAwAB/wMAAf8DAAH/AzoBYv8AYQADHgEqA1UB
+        rwNWAfEDSgH0A1cBvAMqAUDUAAFCAU0BPgcAAT4DAAEoAwABYAMAARgDAAEBAQABAQUAASABARYAA/8B
+        AAHAAQABPwEHAv8GAAGAAQABHwEjAv8GAAG/AeMBzwExAv8GAAG/AeABzwEYAv8GAAG/AeABTwGMAX8B
+        /wYAAb8B8wEPAcYBPwH/BgABoAETAY8B4wEfAf8GAAGoARkBzwHxAYgBHwYAAagBBAHnAfgBwAEHBgAB
+        oAEGAXMB/AFDAcMGAAG/Af8BMQH+AQ8B8QYAAaEB/wGAAf8BHwH4BgABqAEPAcQB/wE/AfwGAAGoAQcB
+        wAH/AT8B/AYAAaABBwHBAf8BPwH8BgABvwH/Ac8B/wE/Af4GAAGhAf8BzwH/AT8B/AYAAaABDgEPAf8B
+        PwH8BgABqQH8AR8B/wEzAcwGAAGgAQEBPwH/AZABCAYAAaMB+AF/Af8BjAERBgABvwH4Av8BwwHjBgAB
+        gAEBAv8B4AEHBgAE/wH4AR8GAAs=
+</value>
+  </data>
+  <data name="tabControlCadastro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 64</value>
+  </data>
+  <data name="tabControlCadastro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>817, 583</value>
+  </data>
+  <data name="tabControlCadastro.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Name" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTabControl, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>84</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>8, 20</value>

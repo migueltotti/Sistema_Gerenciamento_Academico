@@ -19,3 +19,4 @@ C:\Users\migue\OneDrive\Documentos\Faculdade\poe\AcademicoAppV1\AcademicoAppV1\o
 C:\Users\migue\OneDrive\Documentos\Faculdade\poe\AcademicoAppV1\AcademicoAppV1\obj\Debug\net8.0-windows\ref\AcademicoAppV1.dll
 C:\Users\migue\OneDrive\Documentos\Faculdade\poe\AcademicoAppV1\AcademicoAppV1\obj\Debug\net8.0-windows\AcademicoAppV1.Properties.Resources.resources
 C:\Users\migue\OneDrive\Documentos\Faculdade\poe\AcademicoAppV1\AcademicoAppV1\obj\Debug\net8.0-windows\AcademicoAppV1.FormAluno.resources
+C:\Users\migue\OneDrive\Documentos\Faculdade\poe\AcademicoAppV1\AcademicoAppV1\obj\Debug\net8.0-windows\AcademicoAppV1.sourcelink.json

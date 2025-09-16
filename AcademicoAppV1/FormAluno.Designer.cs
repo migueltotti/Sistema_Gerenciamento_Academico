@@ -43,11 +43,11 @@
             mtbDataNascimento = new ReaLTaiizor.Controls.MaterialMaskedTextBox();
             tbMatricula = new ReaLTaiizor.Controls.MaterialTextBoxEdit();
             tabPageConsulta = new TabPage();
-            materialButton2 = new ReaLTaiizor.Controls.MaterialButton();
-            materialButton1 = new ReaLTaiizor.Controls.MaterialButton();
+            btnNovo = new ReaLTaiizor.Controls.MaterialButton();
+            btnEditar = new ReaLTaiizor.Controls.MaterialButton();
+            btnExcluir = new ReaLTaiizor.Controls.MaterialButton();
             lvwConsulta = new ReaLTaiizor.Controls.MaterialListView();
             imageList1 = new ImageList(components);
-            materialButton3 = new ReaLTaiizor.Controls.MaterialButton();
             tabControlCadastro.SuspendLayout();
             tabPageCadastro.SuspendLayout();
             tabPageConsulta.SuspendLayout();
@@ -110,6 +110,7 @@
             btnCancelar.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
             btnCancelar.UseAccentColor = false;
             btnCancelar.UseVisualStyleBackColor = true;
+            btnCancelar.Click += btnCancelar_Click;
             // 
             // tbSenha
             // 
@@ -124,7 +125,7 @@
             tbSenha.MaxLength = 32767;
             tbSenha.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.OUT;
             tbSenha.Name = "tbSenha";
-            tbSenha.PasswordChar = '*';
+            tbSenha.PasswordChar = '●';
             tbSenha.ReadOnly = false;
             tbSenha.SelectedText = "";
             tbSenha.SelectionLength = 0;
@@ -133,7 +134,7 @@
             tbSenha.TabStop = false;
             tbSenha.TextAlign = HorizontalAlignment.Left;
             tbSenha.TrailingIcon = null;
-            tbSenha.UseSystemPasswordChar = false;
+            tbSenha.UseSystemPasswordChar = true;
             // 
             // cbUF
             // 
@@ -309,43 +310,59 @@
             // 
             // tabPageConsulta
             // 
-            tabPageConsulta.Controls.Add(materialButton3);
-            tabPageConsulta.Controls.Add(materialButton2);
-            tabPageConsulta.Controls.Add(materialButton1);
+            tabPageConsulta.Controls.Add(btnNovo);
+            tabPageConsulta.Controls.Add(btnEditar);
+            tabPageConsulta.Controls.Add(btnExcluir);
             tabPageConsulta.Controls.Add(lvwConsulta);
             resources.ApplyResources(tabPageConsulta, "tabPageConsulta");
             tabPageConsulta.Name = "tabPageConsulta";
             tabPageConsulta.UseVisualStyleBackColor = true;
             // 
-            // materialButton2
+            // btnNovo
             // 
-            resources.ApplyResources(materialButton2, "materialButton2");
-            materialButton2.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
-            materialButton2.Depth = 0;
-            materialButton2.HighEmphasis = true;
-            materialButton2.Icon = null;
-            materialButton2.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
-            materialButton2.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
-            materialButton2.Name = "materialButton2";
-            materialButton2.NoAccentTextColor = Color.Empty;
-            materialButton2.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
-            materialButton2.UseAccentColor = false;
-            materialButton2.UseVisualStyleBackColor = true;
+            resources.ApplyResources(btnNovo, "btnNovo");
+            btnNovo.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
+            btnNovo.Depth = 0;
+            btnNovo.HighEmphasis = true;
+            btnNovo.Icon = null;
+            btnNovo.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
+            btnNovo.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
+            btnNovo.Name = "btnNovo";
+            btnNovo.NoAccentTextColor = Color.Empty;
+            btnNovo.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
+            btnNovo.UseAccentColor = false;
+            btnNovo.UseVisualStyleBackColor = true;
+            btnNovo.Click += btnNovo_Click;
             // 
-            // materialButton1
+            // btnEditar
             // 
-            resources.ApplyResources(materialButton1, "materialButton1");
-            materialButton1.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
-            materialButton1.Depth = 0;
-            materialButton1.HighEmphasis = true;
-            materialButton1.Icon = null;
-            materialButton1.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
-            materialButton1.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
-            materialButton1.Name = "materialButton1";
-            materialButton1.NoAccentTextColor = Color.Empty;
-            materialButton1.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
-            materialButton1.UseAccentColor = false;
-            materialButton1.UseVisualStyleBackColor = true;
+            resources.ApplyResources(btnEditar, "btnEditar");
+            btnEditar.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
+            btnEditar.Depth = 0;
+            btnEditar.HighEmphasis = true;
+            btnEditar.Icon = null;
+            btnEditar.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
+            btnEditar.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
+            btnEditar.Name = "btnEditar";
+            btnEditar.NoAccentTextColor = Color.Empty;
+            btnEditar.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
+            btnEditar.UseAccentColor = false;
+            btnEditar.UseVisualStyleBackColor = true;
+            // 
+            // btnExcluir
+            // 
+            resources.ApplyResources(btnExcluir, "btnExcluir");
+            btnExcluir.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
+            btnExcluir.Depth = 0;
+            btnExcluir.HighEmphasis = true;
+            btnExcluir.Icon = null;
+            btnExcluir.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
+            btnExcluir.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
+            btnExcluir.Name = "btnExcluir";
+            btnExcluir.NoAccentTextColor = Color.Empty;
+            btnExcluir.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
+            btnExcluir.UseAccentColor = false;
+            btnExcluir.UseVisualStyleBackColor = true;
             // 
             // lvwConsulta
             // 
@@ -369,21 +386,6 @@
             imageList1.TransparentColor = Color.Transparent;
             imageList1.Images.SetKeyName(0, "form.png");
             imageList1.Images.SetKeyName(1, "search.png");
-            // 
-            // materialButton3
-            // 
-            resources.ApplyResources(materialButton3, "materialButton3");
-            materialButton3.Density = ReaLTaiizor.Controls.MaterialButton.MaterialButtonDensity.Default;
-            materialButton3.Depth = 0;
-            materialButton3.HighEmphasis = true;
-            materialButton3.Icon = null;
-            materialButton3.IconType = ReaLTaiizor.Controls.MaterialButton.MaterialIconType.Rebase;
-            materialButton3.MouseState = ReaLTaiizor.Helper.MaterialDrawHelper.MaterialMouseState.HOVER;
-            materialButton3.Name = "materialButton3";
-            materialButton3.NoAccentTextColor = Color.Empty;
-            materialButton3.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
-            materialButton3.UseAccentColor = false;
-            materialButton3.UseVisualStyleBackColor = true;
             // 
             // FormAluno
             // 
@@ -417,8 +419,8 @@
         private ReaLTaiizor.Controls.MaterialTextBoxEdit tbMatricula;
         private ReaLTaiizor.Controls.MaterialButton btnSalvar;
         private ReaLTaiizor.Controls.MaterialListView lvwConsulta;
-        private ReaLTaiizor.Controls.MaterialButton materialButton2;
-        private ReaLTaiizor.Controls.MaterialButton materialButton1;
-        private ReaLTaiizor.Controls.MaterialButton materialButton3;
+        private ReaLTaiizor.Controls.MaterialButton btnEditar;
+        private ReaLTaiizor.Controls.MaterialButton btnExcluir;
+        private ReaLTaiizor.Controls.MaterialButton btnNovo;
     }
 }
