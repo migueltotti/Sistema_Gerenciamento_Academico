@@ -1,0 +1,1034 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;btnSalvar.Name" xml:space="preserve">
+    <value>btnSalvar</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Name" xml:space="preserve">
+    <value>btnCancelar</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Name" xml:space="preserve">
+    <value>tbSenha</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Name" xml:space="preserve">
+    <value>cbUF</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialComboBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;cbUF.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Name" xml:space="preserve">
+    <value>tbCidade</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Name" xml:space="preserve">
+    <value>tbBairro</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Name" xml:space="preserve">
+    <value>tbEndereco</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Name" xml:space="preserve">
+    <value>tbNome</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbNome.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Name" xml:space="preserve">
+    <value>mtbDataNascimento</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialMaskedTextBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Name" xml:space="preserve">
+    <value>tbMatricula</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="tabPageCadastro.ImageKey" xml:space="preserve">
+    <value>form.png</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tabPageCadastro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 31</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabPageCadastro.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageCadastro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>809, 548</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabPageCadastro.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPageCadastro.Text" xml:space="preserve">
+    <value>Cadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Name" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.Parent" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageCadastro.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="materialButton3.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="materialButton3.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="materialButton3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="materialButton3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="materialButton3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>474, 485</value>
+  </data>
+  <data name="materialButton3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="materialButton3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 45</value>
+  </data>
+  <data name="materialButton3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="materialButton3.Text" xml:space="preserve">
+    <value>Novo</value>
+  </data>
+  <data name="&gt;&gt;materialButton3.Name" xml:space="preserve">
+    <value>materialButton3</value>
+  </data>
+  <data name="&gt;&gt;materialButton3.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialButton3.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;materialButton3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="materialButton2.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="materialButton2.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="materialButton2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="materialButton2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="materialButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>582, 485</value>
+  </data>
+  <data name="materialButton2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="materialButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 45</value>
+  </data>
+  <data name="materialButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="materialButton2.Text" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="&gt;&gt;materialButton2.Name" xml:space="preserve">
+    <value>materialButton2</value>
+  </data>
+  <data name="&gt;&gt;materialButton2.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialButton2.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;materialButton2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="materialButton1.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="materialButton1.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="materialButton1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt</value>
+  </data>
+  <data name="materialButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>690, 485</value>
+  </data>
+  <data name="materialButton1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="materialButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 45</value>
+  </data>
+  <data name="materialButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="materialButton1.Text" xml:space="preserve">
+    <value>Excluir</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Name" xml:space="preserve">
+    <value>materialButton1</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;materialButton1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lvwConsulta.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="lvwConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="lvwConsulta.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="lvwConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>803, 460</value>
+  </data>
+  <data name="lvwConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Name" xml:space="preserve">
+    <value>lvwConsulta</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialListView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.Parent" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;lvwConsulta.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabPageConsulta.ImageKey" xml:space="preserve">
+    <value>search.png</value>
+  </data>
+  <data name="tabPageConsulta.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 31</value>
+  </data>
+  <data name="tabPageConsulta.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPageConsulta.Size" type="System.Drawing.Size, System.Drawing">
+    <value>809, 548</value>
+  </data>
+  <data name="tabPageConsulta.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabPageConsulta.Text" xml:space="preserve">
+    <value>Consulta</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Name" xml:space="preserve">
+    <value>tabPageConsulta</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.Parent" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabPageConsulta.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabControlCadastro.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAEZTeXN0ZW0uV2luZG93cy5Gb3JtcywgQ3VsdHVyZT1uZXV0cmFs
+        LCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5BQEAAAAmU3lzdGVtLldpbmRvd3MuRm9ybXMu
+        SW1hZ2VMaXN0U3RyZWFtZXIBAAAABERhdGEHAgIAAAAJAwAAAA8DAAAACAkAAAJNU0Z0AUkBTAIBAQIB
+        AAFIAQABSAEAARgBAAEYAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABYAMAARgDAAEBAQABIAYAASQa
+        AANDAXcDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cBuQNXAbkDVwG5A1cB
+        uQNPAZkYAAMFAQYDAAH/AwAB/wMAAf8DHAEn/wARAANPAeoDUAGfAx0BKQMdASkDHQEpAx0BKQMdASkD
+        HQEpAx0BKQMdASkDHQEpAx0BKQMdASkDHQEpAx0BKQMdASkDOgFhAwAB/xQAA14B1QMKAf4EAANcAdcD
+        AAH/AxwBJ/8AEAAB/ycAAf8DUwHrAzsBYxAAA1kBwAMdASkQAANVAeQDMgH3CAADXAHXAwAB/wMdASj/
+        AAwAAf8kAANaAeADHAEnA00BkwMAAf8DLwH2CAADVQGvAyQBNBAAAxIBGAMAAf8DXAHWCAADXAHXAwAB
+        /wMcASf/AAgAAf8kAAM0AVMDUQGkAzkBXgMeAfoDQAFxAzIB9wQAA1UBrwMkATQUAAMdASgDAAH/A1wB
+        1ggAA1wB1wMAAf8DHAEn/wAEAAH/KwAB/wMeAfoIAANAAXEDLwH2A1UBrwMkATQYAAMdASgDAAH/A1wB
+        1ggAA1wB1wMAAf8DHQEo/wAB/wcAAf8DAAH/AwAB/wNOAZgDCwEOAz8BbgM/AW4DPwFuBAADSgHuA0oB
+        iQwAA0ABcQMAAf8DJAE0HAADHQEoAwAB/wNcAdYIAANcAdcDAAH/AxwBJ/sAAf8EAAM9AfMEAAMqAUAD
+        UQGhAwwBEANDAXYDQwF2A0MBdggAA0oB7gNKAYkMAANAAXEDLwH2IAADHQEoAwAB/wNcAdcIAANcAdcD
+        AAH/AxwBJwQABAEDPgFqA1UBrQNVAa8DQwF2AwYBB9sAAf8EAAM9AfMEAAMqAUADUQGhAxkBIgNTAaYD
+        UwGmA1MBpgNTAaYDPwFsBAADSgHuA0oBiQwAA0ABcQMvAfYgAAMdASgDAAH/A1wB1wgAA1wB1wMAAf8D
+        KgH4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwoB/gMbASXTAAH/BwAB/wMAAf8DAAH/A0sBjAMCAQMD
+        KQE+AykBPgMpAT4DKQE+AxQBGwgAA0oB7gNKAYkMAANAAXEDLwH2IAADHQEoAwAB/wNcAdYEAAM3AVoD
+        AAH/Ax4B+gMYASEQAAMLAQ4DTwHqAwAB/wNOAZTPAAH/OAADSgHuA0oBiQgABAEDAAH/AzIB9yAAAx0B
+        KAMAAf8DWgHdAwAB/wNTAacgAAM+AWsDAAH/A0QBeMsAAf8EAANEAfEDRAHxA0QB8QM9AWkoAANKAe4D
+        SgGJBAEDAAH/Ax8BLANOAZYDRQF8IAADHQEoAwAB/wNbAc0oAANMAY4DAAH/AwIBA8cAAf8EAAM9AfME
+        AAMqAUADUQGhAykBPgNXAeUDVwHlA1cB5QMEAQUYAANGAe8DAAH/Ax8BLAQAAykBPgNVAawgAANJAYYD
+        AAH/MwAB/wNcAcvHAAH/BAADPQHzBAADKgFAA1EBoQQBAyYBOAMmATgDJgE4AyYBOAMRARYUAANVAa8D
+        FAH8A1UBrAMzAVADAAH/AwsBDiMAAf8DWQHBMAADRAF7AwAB/8cAAf8HAAH/AwAB/wMAAf8DUgGgAxsB
+        JQNVAawDVQGsA1UBrANVAawDQQFyFAADVQGvAyUBNgM9AWkDUgGgAwoBDScAAf8DLgFIMAADBQEGAwAB
+        /8cAAf9AAANVAa8DJQE2MwAB/wMVAR03AAH/xwAB/wQAA0kBhgNJAYYDSQGGAx0BKCwAA1UBrwMlATYz
+        AAH/AykBPjAABAEDAAH/xwAB/wQAAzIB9wM5AV4DSQGGA1EBoQM9AWgDAAH/AwAB/wMAAf8DCQEMDAAD
+        RgGBA1IBowNSAaMDWAHiAyUBNjMAAf8DVAGrMAADOwFlAwAB/8cAAf8EAAM9AfMEAAMqAUADUQGhHwAB
+        /wNFAXwDKgFAA0sBjAMKAf40AANRAaIDAAH/CAADWQHBA1kB4xAAA1ABnQMKAf4IAAMKAf4DVQHkxwAB
+        /wQAAxQB/QNcAdcDXAHhA1EBoQM2AVcDAAH/AwAB/wMAAf8DAAH/A1sB0AMVAR0DWwHQBAADMAFMAwoB
+        /j8AAf8DUgGgBAADFAEbAwAB/wMAAf8DQQHyA1UB5AMAAf8DAAH/AzoBYgQAAzcBWgMAAf8DDAEPxwAB
+        /wQAAwsBDgMLAQ4DCwEOHAADHgEqA1kBuwMwAUwDCgH+QAADPQFpAwAB/wM7AWMIAANCAXQDVwHmA0QB
+        8QNOAZcEAQQAAyMBMgMAAf8DVQGtywAB/ywAAx4BKgNUAecDCgH+SAADTwGbAwAB/wNcAdcEARQAA1YB
+        swMAAf8DWwHNzAADJgE4AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8DAAH/AwAB/wMAAf8D
+        AAH/AxQB/VAAAyYBOAMAAf8DAAH/AwAB/wNcAeEDWgHdAwAB/wMAAf8DAAH/AzoBYv8AYQADHgEqA1UB
+        rwNEAfEDOQH0A1cBvAMqAUDUAAFCAU0BPgcAAT4DAAEoAwABYAMAARgDAAEBAQABAQUAASABARYAA/8B
+        AAHAAQABPwEHAv8GAAGAAQABHwEjAv8GAAG/AeMBzwExAv8GAAG/AeABzwEYAv8GAAG/AeABTwGMAX8B
+        /wYAAb8B8wEPAcYBPwH/BgABoAETAY8B4wEfAf8GAAGoARkBzwHxAYgBHwYAAagBBAHnAfgBwAEHBgAB
+        oAEGAXMB/AFDAcMGAAG/Af8BMQH+AQ8B8QYAAaEB/wGAAf8BHwH4BgABqAEPAcQB/wE/AfwGAAGoAQcB
+        wAH/AT8B/AYAAaABBwHBAf8BPwH8BgABvwH/Ac8B/wE/Af4GAAGhAf8BzwH/AT8B/AYAAaABDgEPAf8B
+        PwH8BgABqQH8AR8B/wEzAcwGAAGgAQEBPwH/AZABCAYAAaMB+AF/Af8BjAERBgABvwH4Av8BwwHjBgAB
+        gAEBAv8B4AEHBgAE/wH4AR8GAAs=
+</value>
+  </data>
+  <data name="tabControlCadastro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 64</value>
+  </data>
+  <data name="tabControlCadastro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>817, 583</value>
+  </data>
+  <data name="tabControlCadastro.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Name" xml:space="preserve">
+    <value>tabControlCadastro</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTabControl, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControlCadastro.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnSalvar.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnSalvar.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnSalvar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSalvar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>657, 501</value>
+  </data>
+  <data name="btnSalvar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnSalvar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 36</value>
+  </data>
+  <data name="btnSalvar.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnSalvar.Text" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.Name" xml:space="preserve">
+    <value>btnSalvar</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;btnSalvar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnCancelar.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="btnCancelar.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="btnCancelar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>505, 501</value>
+  </data>
+  <data name="btnCancelar.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 6, 4, 6</value>
+  </data>
+  <data name="btnCancelar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 36</value>
+  </data>
+  <data name="btnCancelar.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnCancelar.Text" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Name" xml:space="preserve">
+    <value>btnCancelar</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;btnCancelar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tbSenha.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbSenha.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbSenha.Hint" xml:space="preserve">
+    <value>Senha</value>
+  </data>
+  <data name="tbSenha.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 412</value>
+  </data>
+  <data name="tbSenha.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbSenha.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbSenha.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbSenha.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbSenha.Size" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbSenha.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Name" xml:space="preserve">
+    <value>tbSenha</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbSenha.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cbUF.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14px, style=Bold</value>
+  </data>
+  <data name="cbUF.Hint" xml:space="preserve">
+    <value>UF</value>
+  </data>
+  <data name="cbUF.IntegralHeight" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="cbUF.ItemHeight" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="cbUF.Items" xml:space="preserve">
+    <value>AC</value>
+  </data>
+  <data name="cbUF.Items1" xml:space="preserve">
+    <value>AL</value>
+  </data>
+  <data name="cbUF.Items2" xml:space="preserve">
+    <value>AP</value>
+  </data>
+  <data name="cbUF.Items3" xml:space="preserve">
+    <value>AM</value>
+  </data>
+  <data name="cbUF.Items4" xml:space="preserve">
+    <value>BA</value>
+  </data>
+  <data name="cbUF.Items5" xml:space="preserve">
+    <value>CE</value>
+  </data>
+  <data name="cbUF.Items6" xml:space="preserve">
+    <value>DF</value>
+  </data>
+  <data name="cbUF.Items7" xml:space="preserve">
+    <value>ES</value>
+  </data>
+  <data name="cbUF.Items8" xml:space="preserve">
+    <value>GO</value>
+  </data>
+  <data name="cbUF.Items9" xml:space="preserve">
+    <value>MA</value>
+  </data>
+  <data name="cbUF.Items10" xml:space="preserve">
+    <value>MT</value>
+  </data>
+  <data name="cbUF.Items11" xml:space="preserve">
+    <value>MS</value>
+  </data>
+  <data name="cbUF.Items12" xml:space="preserve">
+    <value>MG</value>
+  </data>
+  <data name="cbUF.Items13" xml:space="preserve">
+    <value>PA</value>
+  </data>
+  <data name="cbUF.Items14" xml:space="preserve">
+    <value>PB</value>
+  </data>
+  <data name="cbUF.Items15" xml:space="preserve">
+    <value>PR</value>
+  </data>
+  <data name="cbUF.Items16" xml:space="preserve">
+    <value>PE</value>
+  </data>
+  <data name="cbUF.Items17" xml:space="preserve">
+    <value>PI</value>
+  </data>
+  <data name="cbUF.Items18" xml:space="preserve">
+    <value>RJ</value>
+  </data>
+  <data name="cbUF.Items19" xml:space="preserve">
+    <value>RN</value>
+  </data>
+  <data name="cbUF.Items20" xml:space="preserve">
+    <value>RS</value>
+  </data>
+  <data name="cbUF.Items21" xml:space="preserve">
+    <value>RO</value>
+  </data>
+  <data name="cbUF.Items22" xml:space="preserve">
+    <value>RR</value>
+  </data>
+  <data name="cbUF.Items23" xml:space="preserve">
+    <value>SC</value>
+  </data>
+  <data name="cbUF.Items24" xml:space="preserve">
+    <value>SP</value>
+  </data>
+  <data name="cbUF.Items25" xml:space="preserve">
+    <value>SE</value>
+  </data>
+  <data name="cbUF.Items26" xml:space="preserve">
+    <value>TO</value>
+  </data>
+  <data name="cbUF.Location" type="System.Drawing.Point, System.Drawing">
+    <value>587, 327</value>
+  </data>
+  <data name="cbUF.MaxDropDownItems" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="cbUF.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>182, 0</value>
+  </data>
+  <data name="cbUF.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 49</value>
+  </data>
+  <data name="cbUF.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Name" xml:space="preserve">
+    <value>cbUF</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialComboBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;cbUF.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;cbUF.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tbCidade.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbCidade.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbCidade.Hint" xml:space="preserve">
+    <value>Cidade</value>
+  </data>
+  <data name="tbCidade.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 331</value>
+  </data>
+  <data name="tbCidade.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>525, 50</value>
+  </data>
+  <data name="tbCidade.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>525, 50</value>
+  </data>
+  <data name="tbCidade.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbCidade.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbCidade.Size" type="System.Drawing.Size, System.Drawing">
+    <value>525, 50</value>
+  </data>
+  <data name="tbCidade.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Name" xml:space="preserve">
+    <value>tbCidade</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbCidade.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tbBairro.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbBairro.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbBairro.Hint" xml:space="preserve">
+    <value>Bairro</value>
+  </data>
+  <data name="tbBairro.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 252</value>
+  </data>
+  <data name="tbBairro.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbBairro.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbBairro.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbBairro.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbBairro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbBairro.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Name" xml:space="preserve">
+    <value>tbBairro</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbBairro.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="tbEndereco.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbEndereco.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbEndereco.Hint" xml:space="preserve">
+    <value>Endereço</value>
+  </data>
+  <data name="tbEndereco.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 180</value>
+  </data>
+  <data name="tbEndereco.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbEndereco.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbEndereco.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbEndereco.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbEndereco.Size" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbEndereco.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Name" xml:space="preserve">
+    <value>tbEndereco</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbEndereco.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tbNome.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbNome.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbNome.Hint" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="tbNome.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 105</value>
+  </data>
+  <data name="tbNome.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbNome.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbNome.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbNome.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbNome.Size" type="System.Drawing.Size, System.Drawing">
+    <value>740, 50</value>
+  </data>
+  <data name="tbNome.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Name" xml:space="preserve">
+    <value>tbNome</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbNome.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbNome.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="mtbDataNascimento.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="mtbDataNascimento.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="mtbDataNascimento.Hint" xml:space="preserve">
+    <value>Data de Nascimento</value>
+  </data>
+  <data name="mtbDataNascimento.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Disable</value>
+  </data>
+  <data name="mtbDataNascimento.Location" type="System.Drawing.Point, System.Drawing">
+    <value>505, 34</value>
+  </data>
+  <data name="mtbDataNascimento.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>265, 50</value>
+  </data>
+  <data name="mtbDataNascimento.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>265, 50</value>
+  </data>
+  <data name="mtbDataNascimento.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="mtbDataNascimento.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="mtbDataNascimento.Size" type="System.Drawing.Size, System.Drawing">
+    <value>265, 50</value>
+  </data>
+  <data name="mtbDataNascimento.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="mtbDataNascimento.Text" xml:space="preserve">
+    <value>  /  /</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Name" xml:space="preserve">
+    <value>mtbDataNascimento</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialMaskedTextBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;mtbDataNascimento.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="tbMatricula.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="tbMatricula.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 16px</value>
+  </data>
+  <data name="tbMatricula.Hint" xml:space="preserve">
+    <value>Matricula</value>
+  </data>
+  <data name="tbMatricula.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 34</value>
+  </data>
+  <data name="tbMatricula.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>410, 50</value>
+  </data>
+  <data name="tbMatricula.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>410, 50</value>
+  </data>
+  <data name="tbMatricula.PrefixSuffixText" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="tbMatricula.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>No</value>
+  </data>
+  <data name="tbMatricula.Size" type="System.Drawing.Size, System.Drawing">
+    <value>410, 50</value>
+  </data>
+  <data name="tbMatricula.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Name" xml:space="preserve">
+    <value>tbMatricula</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.MaterialTextBoxEdit, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.Parent" xml:space="preserve">
+    <value>tabPageCadastro</value>
+  </data>
+  <data name="&gt;&gt;tbMatricula.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 20</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>823, 650</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Cadastro de Aluno</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Name" xml:space="preserve">
+    <value>imageList1</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ImageList, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormAluno</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Forms.MaterialForm, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+</root>
