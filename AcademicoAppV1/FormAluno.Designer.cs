@@ -43,6 +43,7 @@
             mtbDataNascimento = new ReaLTaiizor.Controls.MaterialMaskedTextBox();
             tbMatricula = new ReaLTaiizor.Controls.MaterialTextBoxEdit();
             tabPageConsulta = new TabPage();
+            lvwAlunos = new ListView();
             btnNovo = new ReaLTaiizor.Controls.MaterialButton();
             btnEditar = new ReaLTaiizor.Controls.MaterialButton();
             btnExcluir = new ReaLTaiizor.Controls.MaterialButton();
@@ -95,6 +96,7 @@
             btnSalvar.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
             btnSalvar.UseAccentColor = false;
             btnSalvar.UseVisualStyleBackColor = true;
+            btnSalvar.Click += btnSalvar_Click;
             // 
             // btnCancelar
             // 
@@ -310,6 +312,7 @@
             // 
             // tabPageConsulta
             // 
+            tabPageConsulta.Controls.Add(lvwAlunos);
             tabPageConsulta.Controls.Add(btnNovo);
             tabPageConsulta.Controls.Add(btnEditar);
             tabPageConsulta.Controls.Add(btnExcluir);
@@ -317,6 +320,14 @@
             resources.ApplyResources(tabPageConsulta, "tabPageConsulta");
             tabPageConsulta.Name = "tabPageConsulta";
             tabPageConsulta.UseVisualStyleBackColor = true;
+            tabPageConsulta.Enter += tabPageConsulta_Enter;
+            // 
+            // lvwAlunos
+            // 
+            resources.ApplyResources(lvwAlunos, "lvwAlunos");
+            lvwAlunos.Name = "lvwAlunos";
+            lvwAlunos.UseCompatibleStateImageBehavior = false;
+            lvwAlunos.MouseDoubleClick += lvwAlunos_MouseDoubleClick;
             // 
             // btnNovo
             // 
@@ -348,6 +359,7 @@
             btnEditar.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
             btnEditar.UseAccentColor = false;
             btnEditar.UseVisualStyleBackColor = true;
+            btnEditar.Click += btnEditar_Click;
             // 
             // btnExcluir
             // 
@@ -363,6 +375,7 @@
             btnExcluir.Type = ReaLTaiizor.Controls.MaterialButton.MaterialButtonType.Contained;
             btnExcluir.UseAccentColor = false;
             btnExcluir.UseVisualStyleBackColor = true;
+            btnExcluir.Click += btnExcluir_Click;
             // 
             // lvwConsulta
             // 
@@ -416,11 +429,12 @@
         private ReaLTaiizor.Controls.MaterialTextBoxEdit tbEndereco;
         private ReaLTaiizor.Controls.MaterialTextBoxEdit tbNome;
         private ReaLTaiizor.Controls.MaterialMaskedTextBox mtbDataNascimento;
-        private ReaLTaiizor.Controls.MaterialTextBoxEdit tbMatricula;
         private ReaLTaiizor.Controls.MaterialButton btnSalvar;
         private ReaLTaiizor.Controls.MaterialListView lvwConsulta;
         private ReaLTaiizor.Controls.MaterialButton btnEditar;
         private ReaLTaiizor.Controls.MaterialButton btnExcluir;
         private ReaLTaiizor.Controls.MaterialButton btnNovo;
+        private ReaLTaiizor.Controls.MaterialTextBoxEdit tbMatricula;
+        private ListView lvwAlunos;
     }
 }
