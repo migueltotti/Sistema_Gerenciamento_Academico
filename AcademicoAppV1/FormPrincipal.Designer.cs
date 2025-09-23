@@ -62,20 +62,20 @@
             // alunosToolStripMenuItem
             // 
             alunosToolStripMenuItem.Name = "alunosToolStripMenuItem";
-            alunosToolStripMenuItem.Size = new Size(224, 26);
+            alunosToolStripMenuItem.Size = new Size(167, 26);
             alunosToolStripMenuItem.Text = "Alunos";
             alunosToolStripMenuItem.Click += alunosToolStripMenuItem_Click;
             // 
             // professoresToolStripMenuItem
             // 
             professoresToolStripMenuItem.Name = "professoresToolStripMenuItem";
-            professoresToolStripMenuItem.Size = new Size(224, 26);
+            professoresToolStripMenuItem.Size = new Size(167, 26);
             professoresToolStripMenuItem.Text = "Professores";
             // 
             // cursosToolStripMenuItem
             // 
             cursosToolStripMenuItem.Name = "cursosToolStripMenuItem";
-            cursosToolStripMenuItem.Size = new Size(224, 26);
+            cursosToolStripMenuItem.Size = new Size(167, 26);
             cursosToolStripMenuItem.Text = "Cursos";
             // 
             // relatoriosToolStripMenuItem
@@ -124,6 +124,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "IFSP - Sistema de Gerenciamento Acadêmico";
             WindowState = FormWindowState.Maximized;
+            FormClosing += FormPrincipal_FormClosing;
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ResumeLayout(false);
